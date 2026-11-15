@@ -1,0 +1,12 @@
+{
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": false,
+  "git.showPushSuccessNotification": true,
+  "git.pruneOnFetch": true,
+  "git.branchSortOrder": "committerdate",
+  "scm.defaultViewMode": "tree",
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}
